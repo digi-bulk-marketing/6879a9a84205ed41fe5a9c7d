@@ -1,9 +1,14 @@
 # Wa Pro Button Sender
 
-- Rebranding ID: 6879a9a84205ed41fe5a9c7d
-- User ID: 6879a9674205ed41fe5a9780
-- App name: Wa Pro Button Sender
-- Product name: Button Sender
+Wa Pro Button Sender by Wa Pro Button Sender.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/4b2fce3b-441f-4e68-98dd-c0c0b9b9192c.jpg
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/4b2fce3b-441f-4e68-98dd-c0c0b9b9192c.jpg)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/6879a9a84205ed41fe5a9c7d/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Wa Pro Button Sender** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/6879a9a84205ed41fe5a9c7d/releases/latest) and reinstall.
